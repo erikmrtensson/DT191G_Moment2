@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "CurrentSessionData";
+
+    var checkCurrentYear = (int)(ViewData["SessionSavedAge"] ?? 0);
+}
+
+
+<h2>Sparad information i session</h2>
+<div class="session-card">
+    <p><strong>Namn:</strong> @ViewBag.SessionSavedName</p>
+    <p><strong>Ålder:</strong> @ViewData["SessionSavedAge"]</p>
+    <p><strong>E-post:</strong> @ViewBag.SessionSavedEmail</p>
+    <p><strong>Årskurs:</strong> @ViewBag.SessionSavedYear</p>
+    <p><strong>Utbildning:</strong> @ViewBag.SessionSavedProgram</p>
+
+    @if (ViewData["BirthYear"] != null && checkCurrentYear != 0)
+    {
+        <p><strong>Födelseår:</strong> @ViewData["BirthYear"]</p>
+    }
+
+</div>

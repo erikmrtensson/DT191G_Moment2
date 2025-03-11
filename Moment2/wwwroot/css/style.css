@@ -1,0 +1,184 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.green-text {
+    color: green;
+    font-weight: 800;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+main {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+
+/* Styling for radio buttons */
+input[type="radio"] {
+    width: auto;
+    margin-right: 5px;
+}
+
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.validation-summary-errors {
+    color: red;
+    list-style-type: none;
+}
+
+.text-danger {
+    font-size: 0.9rem;
+    color: red;
+}
+
+.session-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    .session-card strong {
+        font-weight: bold;
+        color: #333;
+    }
+
+.random {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+            nav ul li a {
+                text-decoration: none;
+                color: white;
+                font-size: 18px;
+                padding: 10px 15px;
+                border-radius: 5px;
+                transition: background 0.3s ease;
+            }
+
+                nav ul li a:hover {
+                    background-color: #555;
+                }
+
+/* Responsive */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+        nav ul li {
+            margin: 5px 0;
+        }
+
+            nav ul li a {
+                font-size: 16px;
+                padding: 8px 12px;
+            }
+}
+
+/* Hamburger */
+.hamburger-menu {
+    display: none;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+}
+
+
+@media (max-width: 768px) {
+    .hamburger-menu {
+        display: block;
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+
+        nav ul li {
+            width: 100%;
+            text-align: center;
+        }
+
+        nav ul.show {
+            display: flex;
+        }
+}

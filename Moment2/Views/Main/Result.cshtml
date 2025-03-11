@@ -1,0 +1,17 @@
+﻿@model Moment2.Models.UserModel
+
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h2>Resultat</h2>
+<p class="green-text">@ViewBag.Message</p>
+
+<div class="session-card">
+    <p><strong>Namn:</strong> @ViewData["UserName"]</p>
+    <p><strong>Ålder:</strong> @ViewData["Age"]</p>
+    <p><strong>E-post:</strong> @ViewBag.SavedEmail</p>
+    <p><strong>Årskurs:</strong> @ViewBag.SavedYear</p>
+    <p><strong>Utbildning:</strong> @ViewBag.SavedProgram</p>
+    <a asp-controller="Main" asp-action="CurrentSessionData">Se data sparat i Session</a>
+</div>
