@@ -1,8 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 using Moment2.Models;
-using System.Reflection;
-using System.Text.Json;
 
 namespace Moment2.Controllers
 {
