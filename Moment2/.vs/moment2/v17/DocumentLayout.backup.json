@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\main\\currentsessiondata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\main\\currentsessiondata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\shared\\_educationurl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\shared\\_educationurl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\main\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\main\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\main\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\main\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\main\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\main\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|c:\\users\\erik\\documents\\skola\\.net\\moment2\\moment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAC544A8-F5C0-13E6-E389-9488F5904D01}|Moment2.csproj|solutionrelative:moment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_EducationUrl.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Shared\\_EducationUrl.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_EducationUrl.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Shared\\_EducationUrl.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_EducationUrl.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T22:41:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:19:52.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Start.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\Start.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Start.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\Start.cshtml",
+              "RelativeToolTip": "Views\\Main\\Start.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:12:15.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Result.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\Result.cshtml",
+              "RelativeToolTip": "Views\\Main\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:15:04.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:14:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T17:11:07.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentSessionData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\CurrentSessionData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\CurrentSessionData.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\CurrentSessionData.cshtml",
+              "RelativeToolTip": "Views\\Main\\CurrentSessionData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T16:11:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Controllers\\MainController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:09:44.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:02:31.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\Random.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Random.cshtml",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Views\\Main\\Random.cshtml",
+              "RelativeToolTip": "Views\\Main\\Random.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:15:14.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T10:27:45.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:28:54.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moment2.csproj",
+              "DocumentMoniker": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Moment2.csproj",
+              "RelativeDocumentMoniker": "Moment2.csproj",
+              "ToolTip": "C:\\Users\\Erik\\Documents\\SKOLA\\.NET\\Moment2\\Moment2.csproj",
+              "RelativeToolTip": "Moment2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T10:28:04.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

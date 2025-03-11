@@ -1,0 +1,49 @@
+﻿@{
+    string? program = ViewBag.SessionSavedProgram as string;
+    string? userName = ViewBag.SessionSavedName as string;
+
+    var isStartPage = ViewData["Title"]?.ToString() == "Start";
+    var isRandomPage = ViewData["Title"]?.ToString() == "Random";
+}
+
+
+@if (!string.IsNullOrEmpty(program))
+{
+
+    <div>
+        <p><strong>Hej, @program!</strong></p>
+
+        @if (program == "Webbutvecklare")
+        {
+            <a href="https://webbutveckling.miun.se/" target="_blank">Besök Studentportalen</a>
+        }
+        else if (program == "Ingenjör")
+        {
+            <a href="https://www.miun.se/utbildning/program/ingenjorsutbildningarna/" target="_blank">Hitta rätt ingenjörsutbildning</a>
+        }
+        else if (program == "Lärare")
+        {
+            <a href="https://www.miun.se/utbildning/program/lararutbildningen/.com" target="_blank">Hitta rätt lärarutbildning</a>
+        }
+        else if (program == "Sjuksköterska")
+        {
+            <a href="https://www.miun.se/utbildning/program/sjukskoterskeutbildning/" target="_blank">Läs mer om sjuksköterskeutbildningen</a>
+        }
+        else
+        {
+            <p>Hitta rätt utbildning hos Mittuniversitetet!</p>
+            <a href="https://www.miun.se/" target="_blank">Sök till hösten redan idag!</a>
+        }
+
+        @if (isStartPage)
+        {
+        <p>Vill du ändra information om dig själv? Fyll i formuläret nedan.</p>
+        }
+
+        @if (isRandomPage)
+        {
+        <p>Hej, @userName, på den här sidan hittar du ett exempel på en ändrad routing.</p>
+        }
+
+    </div>
+}
