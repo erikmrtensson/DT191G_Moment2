@@ -1,2 +1,0 @@
-C:\Users\Erik\Documents\SKOLA\.NET\Moment2\wwwroot\css\style.css
-wwwroot\css\style.css
